@@ -40,4 +40,7 @@ The visual theme is inspired by **retro-futuristic dashboards**, with a dynamic,
 ---
 
 ## 🗂️ Folder Structure
-
+Digital Time Capsule/
+├─ index.html
+├─ style.css
+├─ script.js
