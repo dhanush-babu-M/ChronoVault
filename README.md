@@ -2,7 +2,7 @@
 
 A sleek, single-page web application that allows users to **create, store, and unlock digital time capsules**. Seal your memories, messages, and goals for the future and revisit them when the time is right.
 
-**Live Demo:** [https://digital-vault-capsule.netlify.app](https://digital-vault-capsule.netlify.app)
+**Live Demo:** [https://dhanush-vault.netlify.app](https://dhanush-vault.netlify.app)
 
 ---
 
@@ -17,14 +17,21 @@ The visual theme is inspired by **retro-futuristic dashboards**, with a dynamic,
 ## ✨ Key Features
 
 - **Create, Edit, and Delete Time Capsules**: Full CRUD functionality to manage your future messages.
+
 - **Live Countdown Timers**: Each sealed capsule has a dynamic timer counting down to its unlock date.
+
 - **Interactive Temporal Loom**: Futuristic particle animation using **HTML5 Canvas**, giving the app a lively and immersive feel.
+
 - **Live Data Integration**:
   - Fetches live weather data based on the user's location using the **Open-Meteo API**.
   - Captures geolocation coordinates when a capsule is sealed for contextual relevance.
+
 - **Persistent Storage**: All capsules are saved in the browser's **localStorage**.
+
 - **Fully Responsive UI**: Works seamlessly on **desktop, tablet, and mobile** devices.
+
 - **User Feedback**: Toast notifications inform the user about actions like creating, updating, or deleting capsules.
+
 - **Interactive Buttons**: Buttons subtly tilt or “bend” on hover, giving a polished, human-crafted touch.
 
 ---
@@ -32,15 +39,23 @@ The visual theme is inspired by **retro-futuristic dashboards**, with a dynamic,
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic and accessible markup
+
 - **CSS3** – Modern styling with **variables, Flexbox, Grid, and transitions**
+
 - **JavaScript (ES6+)** – Handles all core logic, DOM manipulation, and animations
+
 - **Font Awesome** – Icons for UI clarity
+
 - **Netlify** – Hosting and deployment
 
 ---
 
 ## 🗂️ Folder Structure
+
 Digital Time Capsule/
+
 ├─ index.html
+
 ├─ style.css
+
 ├─ script.js
